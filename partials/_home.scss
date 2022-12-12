@@ -7,13 +7,15 @@
   background: linear-gradient(
       to right,
       rgba($primary-color, 0.8),
-      rgba($primary-color, 0.3)
+      rgba($danger, 0.8)
     ),
-    url("https://www.sparkinfosys.com/images/home/aboutus-img.png") center top;
+    url("../assets/ME.png") center top;
   background-size: cover;
 
   &__name {
-    font-size: 5rem;
+    font-size: 7rem;
+    font-family: "Corinthia", cursive;
+    font-weight: 700;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
     border-bottom: 2px solid set-text-color($primary-color);
