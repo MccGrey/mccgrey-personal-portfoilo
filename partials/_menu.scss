@@ -105,9 +105,10 @@
     &__link {
       display: inline-block;
       font-size: 2rem;
-      text-transform: uppercase;
+      text-transform: lowercase;
       padding: 2rem 0;
-      font-weight: 300;
+      font-weight: 500;
+      font-family: "Mulish", sans-serif;
       @include transition-ease;
 
       &:hover {
