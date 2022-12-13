@@ -8,9 +8,9 @@
   background: linear-gradient(
       to right,
       rgba($primary-color, 0.8),
-      rgba($primary-color, 0.3)
+      rgba($danger, 0.8)
     ),
-    url("https://www.sparkinfosys.com/images/home/aboutus-img.png") center top;
+    url("../assets/ME.png") center top;
   background-size: cover;
 
   h2 {
