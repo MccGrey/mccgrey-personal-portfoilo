@@ -6,8 +6,8 @@
     width: 100%;
     background: linear-gradient(
         to right,
-        rgba($primary-color, 0.9),
-        rgba($primary-color, 0.3)
+        rgba($primary-color, 0.8),
+        rgba($danger, 0.8)
       ),
       url("../assets/ME.png") center top;
     background-size: cover;
@@ -17,8 +17,8 @@
     justify-content: flex-end;
 
     .text-secondary {
-      font: 2rem;
-      margin-bottom: 2rem;
+      font-size: 2.5rem;
+      margin-bottom: 2.5rem;
     }
   }
 
