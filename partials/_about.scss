@@ -18,6 +18,7 @@
 
     p {
       margin-bottom: 2rem;
+      font-family: "Mulish", sans-serif;
     }
   }
 
@@ -45,10 +46,18 @@
       h2,
       h3 {
         margin: 0.5rem 0;
+        font-family: "Mulish", sans-serif;
       }
 
       h6 {
         margin: 0.3rem 0;
+        font-size: 1rem;
+        font-family: "Mulish", sans-serif;
+      }
+
+      p {
+        font-family: "Mulish", sans-serif;
+        line-height: 1.5rem;
       }
     }
   }
